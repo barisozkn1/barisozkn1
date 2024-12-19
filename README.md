@@ -1,5 +1,5 @@
-#               Hello, I'm Barış Özkan 👋
-#  	            ComputerEngineer
+# <h1 align="center"> Hello, I'm Barış Özkan 👋
+
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Java, SpringBoot**
